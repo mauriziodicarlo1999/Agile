@@ -1,0 +1,1 @@
+1) L'utente registrato all'evento può crearsi il proprio calendario segnando i sub-eventi a cui vuole partecipare.

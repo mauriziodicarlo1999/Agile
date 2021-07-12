@@ -1,0 +1,225 @@
+.main-sidebar{
+   background-color:#17a2b861 !important ;
+}
+.bg-success{
+    /*Background color del pulsante evento */
+    background-color:#f012be !important ;
+}
+
+.small-box{
+    /* classe dei pulsanti N eventi, N artisti, N Topics, N Utenti Registrati */
+    border-radius: 30px !important;
+}
+
+.col-lg-3, .col-6{
+    padding: 2.5rem !important;
+    flex: 1 1 auto !important;
+
+}
+.navbar-white {
+    background-color: #17a2b861 !important;
+}
+.main-header {
+    border-bottom: 0px solid #dee2e6 !important;
+    z-index: 1034 !important;
+}
+.main-footer {
+    /* border-left-color: transparent; */
+    background-color: #17a2b861 !important;
+     border-top: 0px solid #dee2e6 !important; 
+    color: #869099 !important;
+    padding: 1rem !important;
+}
+[class*=sidebar-dark] .brand-link {
+    border-bottom: 3px solid #a7dce4 !important;
+}
+[class*=sidebar-dark] .user-panel {
+    border-bottom: 0px solid #f8f9fa !important; 
+}
+.content-wrapper {
+    height: 100% !important;
+    background-color: #17a2b861 !important;
+}
+
+/*----------------------------------------------------------- INIZIO CSS CERCHIO CONTENITORE*/
+
+
+
+/*---------------------------------------------------------- INIZIO CSS INTERNO CERCHIO*/
+
+
+
+.icon-shape i, .icon-shape svg {
+    font-size: 1.25rem !important;
+} 
+.icon i, .icon svg {
+    font-size: 2.25rem !important;
+}
+.fa, .fas {
+    font-weight: 900 !important;
+}
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free" !important ;
+}
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale !important;
+    -webkit-font-smoothing: antialiased !important;
+    display: inline-block !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    text-rendering: auto !important;
+    line-height: 1 !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box !important;
+}
+user agent stylesheet
+i {
+    font-style: italic !important;
+}
+.icon-shape {
+    display: inline-flex !important;
+    padding: 12px !important;
+    text-align: center !important;
+    border-radius: 50% !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.text-white {
+    color: #fff !important;
+}
+.text-white {
+    color: #fff !important;
+}
+.text-white {
+    color: #fff !important;
+}
+.card {
+    position: relative !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-width: 0 !important;
+    word-wrap: break-word !important;
+    border: 1px solid rgba(0, 0, 0, .05) !important;
+    border-radius: .375rem !important;
+    background-color: #fff !important;
+    background-clip: border-box !important;
+}
+body {
+    font-family: Open Sans, sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    margin: 0 !important;
+    text-align: left !important;
+    color: #525f7f !important;
+    background-color: #f8f9fe !important;
+}
+:root {
+    --blue: #5e72e4;
+    --indigo: #5603ad;
+    --purple: #8965e0;
+    --pink: #f3a4b5;
+    --red: #f5365c;
+    --orange: #fb6340;
+    --yellow: #ffd600;
+    --green: #2dce89;
+    --teal: #11cdef;
+    --cyan: #2bffc6;
+    --white: #fff;
+    --gray: #8898aa;
+    --gray-dark: #32325d;
+    --light: #ced4da;
+    --lighter: #e9ecef;
+    --primary: #5e72e4;
+    --secondary: #f7fafc;
+    --success: #2dce89;
+    --info: #11cdef;
+    --warning: #fb6340;
+    --danger: #f5365c;
+    --light: #adb5bd;
+    --dark: #212529;
+    --default: #172b4d;
+    --white: #fff;
+    --neutral: #fff;
+    --darker: black;
+    --breakpoint-xs: 0 !important;
+    --breakpoint-sm: 576px !important;
+    --breakpoint-md: 768px !important;
+    --breakpoint-lg: 992px !important;
+    --breakpoint-xl: 1200px !important;
+    --font-family-sans-serif: Open Sans, sans-serif !important;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
+}
+html {
+    font-family: sans-serif !important;
+    line-height: 1.15 !important;
+    -webkit-text-size-adjust: 100% !important;
+    -ms-text-size-adjust: 100% !important;
+    -ms-overflow-style: scrollbar !important;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+}
+.fa-chart-pie:before {
+    content: "\f200" !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box !important;
+}
+
+
+/*-----------------------------------------------tasto DASHBOARD*/
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+
+    background-color: rgb(238, 0, 0);
+
+    background-color: #ff0707;
+
+    color: #fff;
+    font-family: fantasy;
+}
+
+/*-----------------------------------------------tasti dashboard*/
+.card-header:first-child {
+    border-radius: calc(.25rem - 0) calc(.25rem - 0) 0 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:dark;
+    background-color:fuchsia;
+}
+
+/*-----------------------------------------------card sotto */
+.card-e {
+    position: relative !important;
+    left: 200px;
+    display: flex !important;
+    flex-direction: column !important;
+    min-width: 0 !important;
+    word-wrap: break-word !important;
+    border: 1px solid rgba(0, 0, 0, .05) !important;
+    border-radius: .375rem !important;
+    background-color: #fff !important;
+    background-clip: border-box !important;
+}
+
+/*------------------------------------*/
+.btn-primary {
+    background-color: black !important;
+    color: #f8f9fa !important;
+    box-shadow: none !important;
+    border-color: black !important;
+}
+/*---------------------------------------*/
+.btn-info {
+    color: #fff !important;
+    background-color: #212529 !important;
+    border-color: #212529 !important;
+    box-shadow: none !important;
+}
+/*---------------------------------------*/
+.top_panel_style_6 .top_panel_middle, .top_panel_style_7 .top_panel_middle {
+    min-height: 0;
+    background: #28ec59 !important;
+    border-radius: 20px 20px 0px 0px;
+}
