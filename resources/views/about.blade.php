@@ -122,7 +122,7 @@
                                                 <div class="column-1_3 sc_column_item sc_column_item_2 even">
                                                     <h3 class="sc_title margin_bottom_40">Le nostre competenze</h3>
                                                     <div class="margin_bottom_20">
-                                                        <p>Siamo un team di giovani raggazi in cui ogniuno di noi si occupa di un compito ben preciso.</p>
+                                                        <p>Siamo un team di giovani ragazzi in cui ogniuno di noi si occupa di un compito ben preciso.</p>
                                                     </div>
                                                     <div class="sc_skills sc_skills_bar sc_skills_horizontal" data-type="bar" data-caption="Skills" data-dir="horizontal">
                                                         <div class="sc_skills_info">

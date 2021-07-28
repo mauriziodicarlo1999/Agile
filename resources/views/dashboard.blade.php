@@ -313,9 +313,7 @@
                                             @foreach($artists as $artista)
                                             <div class="swiper-slide">
                                                 <div class="sc_testimonial_item" style="background-color: #d6e2f5; border-radius: 15px;">
-                                                    <div class="sc_testimonial_avatar">
-                                                        <img  src="storage/{{ \App\Models\Image::all()->where('id', $artista->id_copertina)->first()->path }}">
-                                                    </div>
+                                                    
                                                     <div class="sc_testimonial_content">{{ $artista -> biografia }}</div>
                                                     <div class="sc_testimonial_author">
                                                         <a href="{{ route('artista', $artista->id) }}"> <span class="sc_testimonial_author_name">{{ $artista -> nome_arte}}</span></a>
