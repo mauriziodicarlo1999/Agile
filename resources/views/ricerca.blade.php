@@ -68,11 +68,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="tribe-events-event-image">
-                                                                                <a href="{{ route('evento',$event->id) }}">
-                                                                                    <img src="storage/{{ \App\Models\Image::all()->where('id', $event->id_copertina)->first()->path }}" class="attachment-medium size-medium" alt="Immagine Evento" />
-                                                                                </a>
-                                                                            </div>
+                                                                           
                                                                             <div class="tribe-events-list-event-description tribe-events-content">
                                                                                 <p>{{$event->descrizione}}</p>
                                                                                 <a href="{{ route('evento',$event->id) }}" class="tribe-events-read-more" rel="bookmark">Leggi di più &raquo;</a>

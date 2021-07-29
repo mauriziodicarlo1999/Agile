@@ -96,11 +96,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="tribe-events-event-image">
-                                                                            <a href="{{ route('evento',$evento->id) }}">
-                                                                                <img src="storage/{{ \App\Models\Image::all()->where('id', $evento->id_copertina)->first()->path }}" class="attachment-medium size-medium" alt="Immagine Evento" style="height: 350px; width: auto;" />
-                                                                            </a>
-                                                                        </div>
+                                                                        
                                                                         <div class="tribe-events-list-event-description tribe-events-content">
                                                                             <p>{{$evento->descrizione}}</p>
                                                                         </div>

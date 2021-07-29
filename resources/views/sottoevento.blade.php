@@ -57,9 +57,7 @@
                                                                 </h2>
                                                             </div>
                                                             <div class="tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-conferences cat_conferences">
-                                                                <div class="tribe-events-event-image">
-                                                                    <img src="dist/images/1000x634.png" class="attachment-full size-full wp-post-image" alt="immagine non trovata" />
-                                                                </div>
+                                                                
                                                                 <div class="tribe-events-single-event-description tribe-events-content">
                                                                     <p>{{$sottoevento->descrizione}}</p>
                                                                 </div>
