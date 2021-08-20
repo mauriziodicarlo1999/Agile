@@ -24,7 +24,7 @@ class ArtistsTest extends TestCase
             'password' => 'password',
         ]);
         $this->assertAuthenticated();
-
+//se si apre la rotta /admin/artist vuol dire che si visualizzano tutti gli artisti
         $response = $this->get('/admin/artists');
         $response->assertStatus(200);
     }
