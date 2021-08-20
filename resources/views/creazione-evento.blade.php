@@ -7,7 +7,7 @@
                 <div class="sc_form_wrap">
                     <div class="sc_form sc_form_style_form_2 contact_form_1 responsive_margins">
                         <h2 class="sc_form_title sc_item_title">Crea un nuovo evento</h2>
-                        <div class="sc_form_descr sc_item_descr">Inserisci i dati del tuo evento, appena verrà accettato
+                        <div class="sc_form_descr sc_item_descr">Inserisci i dati del tuo evento, appena verrà accettato da un admin
                             gli altri utenti potranno subito iscriversi.<br/>Convegni, festival, spettacoli e concerti,
                             realizza il tuo evento.<br>
                         </div>
